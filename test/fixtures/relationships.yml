@@ -1,0 +1,16 @@
+one :
+  follower: ashik
+  followed: lana
+  
+two:
+  follower: ashik
+  followed: malory
+
+three:
+  follower: lana
+  followed: ashik
+
+four:
+  follower: archer
+  followed: ashik
+  
