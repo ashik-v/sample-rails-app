@@ -302,13 +302,16 @@ span.image {
 }
 
 
-.button {
-  background-color: #eaeaea; /* gray  */
+.deleteButton {
+  background-color: #eaeaea;
   border: none;
   color: gray;
-  padding: 1px 3px;
+  padding: 3px 3px;
   text-align: center;
   text-decoration: none;
-  display: block;
-  font-size: 16px;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 10px;
+  margin: 1px;
+  width: 90px;
 }
