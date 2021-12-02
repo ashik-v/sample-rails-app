@@ -3,12 +3,17 @@
 // a relevant structure within app/javascript and only use these pack files to reference
 // that code so it'll be compiled.
 
+
 require("@rails/ujs").start()
 require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
 require("jquery")
 import "bootstrap"
+require("jquery_ujs")
+import {} from 'jquery-ujs'
+//= require jquery
+//= require jquery_ujs
 
 
 // Uncomment to copy all static images under ../images to the output folder and reference
