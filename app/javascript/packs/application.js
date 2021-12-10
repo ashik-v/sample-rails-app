@@ -8,10 +8,10 @@ require("@rails/ujs").start()
 require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
-require("jquery")
-import "bootstrap"
-require("jquery_ujs")
-import {} from 'jquery-ujs'
+//require("jquery")
+//import "bootstrap"
+//require("jquery_ujs")
+//import {} from 'jquery-ujs'
 //= require jquery
 //= require jquery_ujs
 
